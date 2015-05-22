@@ -1,0 +1,2 @@
+# blog_project
+This programming project was created with the intent to show the flexibility that one has with PHP. It includes work on functions, creating, modifying, and deleting files, as well as some HTML and CSS functions.  Furthermore, there is some interplay between PHP and MySQL. Basic functionalities of accessing MySQL through PHP, editing an existing entry within the database and saving it back again
